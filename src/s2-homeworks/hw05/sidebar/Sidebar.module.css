@@ -52,7 +52,7 @@ transition: 0.2s;
 
 .nav a.active {
     text-decoration-line: underline;
-    color: #0059B2;
+    color: #a600b2;
 }
 
 .close {
