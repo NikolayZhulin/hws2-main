@@ -2,9 +2,13 @@
 }
 
 .input {
-	width :372px;
+	width: 276px;
 	height: 36px;
+	box-sizing: border-box;
+	padding: 8px 24px;
+	border: 1px solid #D1D1D1;
 	border-radius: 5px;
+	outline:none
 }
 
 .inputWrapper {
@@ -13,7 +17,7 @@
 	}
 
 .superInput {
-	border-radius: 10px;
+
 }
 
 .errorInput {
