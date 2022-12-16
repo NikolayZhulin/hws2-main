@@ -15,8 +15,12 @@
 }
 
 .buttonsContainer {
+    width: 440px;
+    margin-bottom: 20px;
     display: flex;
-    align-self: flex-end;
+    justify-content: space-around;
+    margin-left: 165px;
+
 }
 
 .container {
